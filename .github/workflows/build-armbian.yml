@@ -226,7 +226,7 @@ on:
         options:
           - ophub
           - angel
-          - yourname
+          - fusionplmh
 
 env:
   TZ: America/New_York
